@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: b4aea183a28bfb64c8c00d1cc521782c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: "ch\xE3o sem textura 01"
+    100002: "ch\xE3o sem textura 01.001"
+    100004: "ch\xE3o sem textura 01.002"
+    100006: "ch\xE3o sem textura 02"
+    100008: "ch\xE3o sem textura 02.001"
+    100010: "ch\xE3o sem textura 02.002"
+    100012: "ch\xE3o sem textura 02.003"
+    100014: "ch\xE3o sem textura 02.004"
+    100016: "ch\xE3o sem textura 02.005"
+    100018: "ch\xE3o sem textura 02.006"
+    100020: "ch\xE3o sem textura 02.007"
+    100022: "ch\xE3o sem textura 02.008"
+    100024: "ch\xE3o sem textura 02.009"
+    100026: corredor.002
+    100028: Cube.000
+    100030: Cube.002
+    100032: Cube.003
+    100034: Cube.004
+    100036: Cube.005
+    100038: Cube.006
+    100040: Cube.007
+    100042: Cube.008
+    100044: Cube.009
+    100046: Cube.010
+    100048: Cube.011
+    100050: Cube.012
+    100052: Cube.013
+    100054: parede sem textura 1
+    100056: parede sem textura 1.001
+    100058: parede sem textura 1.002
+    100060: parede sem textura 1.003
+    100062: parede sem textura 1.004
+    100064: parede sem textura 1.005
+    100066: parede sem textura 1.006
+    100068: parede sem textura 1.007
+    100070: parede sem textura 1.008
+    100072: parede sem textura 1.009
+    100074: parede sem textura 2
+    100076: parede sem textura 2.001
+    100078: parede sem textura 2.002
+    100080: parede sem textura 2.003
+    100082: parede sem textura 2.004
+    100084: parede sem textura 2.005
+    100086: parede sem textura 2.007
+    100088: parede sem textura 2.008
+    100090: parede sem textura 2.009
+    100092: parede sem textura 2.010
+    100094: parede sem textura 2.011
+    100096: parede sem textura 2.012
+    100098: parede sem textura 2.013
+    100100: parede sem textura 2.014
+    100102: parede sem textura 2.015
+    100104: parede sem textura 2.016
+    100106: parede sem textura 2.017
+    100108: parede sem textura 2.018
+    100110: viga01 sem textura
+    100112: viga01 sem textura.001
+    100114: viga01 sem textura.002
+    100116: viga01 sem textura.003
+    100118: viga01 sem textura.004
+    100120: viga01 sem textura.005
+    100122: viga01 sem textura.006
+    100124: viga01 sem textura.007
+    100126: viga01 sem textura.008
+    100128: viga01 sem textura.009
+    100130: viga01 sem textura.010
+    100132: viga01 sem textura.011
+    100134: viga01 sem textura.012
+    100136: viga01 sem textura.013
+    100138: viga01 sem textura.014
+    100140: viga01 sem textura.015
+    100142: viga01 sem textura.016
+    100144: viga01 sem textura.017
+    100146: viga01 sem textura.018
+    100148: viga01 sem textura.019
+    100150: viga01 sem textura.020
+    100152: viga01 sem textura.021
+    100154: viga01 sem textura.022
+    100156: viga01 sem textura.023
+    100158: viga01 sem textura.024
+    100160: viga01 sem textura.025
+    100162: viga01 sem textura.026
+    100164: viga01 sem textura.027
+    100166: viga01 sem textura.028
+    100168: viga01 sem textura.029
+    100170: viga01 sem textura.030
+    100172: viga01 sem textura.031
+    100174: viga01 sem textura.032
+    100176: viga01 sem textura.033
+    100178: viga01 sem textura.034
+    100180: viga01 sem textura.035
+    100182: //RootNode
+    400000: "ch\xE3o sem textura 01"
+    400002: "ch\xE3o sem textura 01.001"
+    400004: "ch\xE3o sem textura 01.002"
+    400006: "ch\xE3o sem textura 02"
+    400008: "ch\xE3o sem textura 02.001"
+    400010: "ch\xE3o sem textura 02.002"
+    400012: "ch\xE3o sem textura 02.003"
+    400014: "ch\xE3o sem textura 02.004"
+    400016: "ch\xE3o sem textura 02.005"
+    400018: "ch\xE3o sem textura 02.006"
+    400020: "ch\xE3o sem textura 02.007"
+    400022: "ch\xE3o sem textura 02.008"
+    400024: "ch\xE3o sem textura 02.009"
+    400026: corredor.002
+    400028: Cube.000
+    400030: Cube.002
+    400032: Cube.003
+    400034: Cube.004
+    400036: Cube.005
+    400038: Cube.006
+    400040: Cube.007
+    400042: Cube.008
+    400044: Cube.009
+    400046: Cube.010
+    400048: Cube.011
+    400050: Cube.012
+    400052: Cube.013
+    400054: parede sem textura 1
+    400056: parede sem textura 1.001
+    400058: parede sem textura 1.002
+    400060: parede sem textura 1.003
+    400062: parede sem textura 1.004
+    400064: parede sem textura 1.005
+    400066: parede sem textura 1.006
+    400068: parede sem textura 1.007
+    400070: parede sem textura 1.008
+    400072: parede sem textura 1.009
+    400074: parede sem textura 2
+    400076: parede sem textura 2.001
+    400078: parede sem textura 2.002
+    400080: parede sem textura 2.003
+    400082: parede sem textura 2.004
+    400084: parede sem textura 2.005
+    400086: parede sem textura 2.007
+    400088: parede sem textura 2.008
+    400090: parede sem textura 2.009
+    400092: parede sem textura 2.010
+    400094: parede sem textura 2.011
+    400096: parede sem textura 2.012
+    400098: parede sem textura 2.013
+    400100: parede sem textura 2.014
+    400102: parede sem textura 2.015
+    400104: parede sem textura 2.016
+    400106: parede sem textura 2.017
+    400108: parede sem textura 2.018
+    400110: viga01 sem textura
+    400112: viga01 sem textura.001
+    400114: viga01 sem textura.002
+    400116: viga01 sem textura.003
+    400118: viga01 sem textura.004
+    400120: viga01 sem textura.005
+    400122: viga01 sem textura.006
+    400124: viga01 sem textura.007
+    400126: viga01 sem textura.008
+    400128: viga01 sem textura.009
+    400130: viga01 sem textura.010
+    400132: viga01 sem textura.011
+    400134: viga01 sem textura.012
+    400136: viga01 sem textura.013
+    400138: viga01 sem textura.014
+    400140: viga01 sem textura.015
+    400142: viga01 sem textura.016
+    400144: viga01 sem textura.017
+    400146: viga01 sem textura.018
+    400148: viga01 sem textura.019
+    400150: viga01 sem textura.020
+    400152: viga01 sem textura.021
+    400154: viga01 sem textura.022
+    400156: viga01 sem textura.023
+    400158: viga01 sem textura.024
+    400160: viga01 sem textura.025
+    400162: viga01 sem textura.026
+    400164: viga01 sem textura.027
+    400166: viga01 sem textura.028
+    400168: viga01 sem textura.029
+    400170: viga01 sem textura.030
+    400172: viga01 sem textura.031
+    400174: viga01 sem textura.032
+    400176: viga01 sem textura.033
+    400178: viga01 sem textura.034
+    400180: viga01 sem textura.035
+    400182: //RootNode
+    2100000: Material.001
+    2100002: No Name
+    2300000: "ch\xE3o sem textura 01"
+    2300002: "ch\xE3o sem textura 01.001"
+    2300004: "ch\xE3o sem textura 01.002"
+    2300006: "ch\xE3o sem textura 02"
+    2300008: "ch\xE3o sem textura 02.001"
+    2300010: "ch\xE3o sem textura 02.002"
+    2300012: "ch\xE3o sem textura 02.003"
+    2300014: "ch\xE3o sem textura 02.004"
+    2300016: "ch\xE3o sem textura 02.005"
+    2300018: "ch\xE3o sem textura 02.006"
+    2300020: "ch\xE3o sem textura 02.007"
+    2300022: "ch\xE3o sem textura 02.008"
+    2300024: "ch\xE3o sem textura 02.009"
+    2300026: Cube.000
+    2300028: Cube.002
+    2300030: Cube.003
+    2300032: Cube.004
+    2300034: Cube.005
+    2300036: Cube.006
+    2300038: Cube.007
+    2300040: Cube.008
+    2300042: Cube.009
+    2300044: Cube.010
+    2300046: Cube.011
+    2300048: Cube.012
+    2300050: Cube.013
+    2300052: parede sem textura 1
+    2300054: parede sem textura 1.001
+    2300056: parede sem textura 1.002
+    2300058: parede sem textura 1.003
+    2300060: parede sem textura 1.004
+    2300062: parede sem textura 1.005
+    2300064: parede sem textura 1.006
+    2300066: parede sem textura 1.007
+    2300068: parede sem textura 1.008
+    2300070: parede sem textura 1.009
+    2300072: parede sem textura 2
+    2300074: parede sem textura 2.001
+    2300076: parede sem textura 2.002
+    2300078: parede sem textura 2.003
+    2300080: parede sem textura 2.004
+    2300082: parede sem textura 2.005
+    2300084: parede sem textura 2.007
+    2300086: parede sem textura 2.008
+    2300088: parede sem textura 2.009
+    2300090: parede sem textura 2.010
+    2300092: parede sem textura 2.011
+    2300094: parede sem textura 2.012
+    2300096: parede sem textura 2.013
+    2300098: parede sem textura 2.014
+    2300100: parede sem textura 2.015
+    2300102: parede sem textura 2.016
+    2300104: parede sem textura 2.017
+    2300106: parede sem textura 2.018
+    2300108: viga01 sem textura
+    2300110: viga01 sem textura.001
+    2300112: viga01 sem textura.002
+    2300114: viga01 sem textura.003
+    2300116: viga01 sem textura.004
+    2300118: viga01 sem textura.005
+    2300120: viga01 sem textura.006
+    2300122: viga01 sem textura.007
+    2300124: viga01 sem textura.008
+    2300126: viga01 sem textura.009
+    2300128: viga01 sem textura.010
+    2300130: viga01 sem textura.011
+    2300132: viga01 sem textura.012
+    2300134: viga01 sem textura.013
+    2300136: viga01 sem textura.014
+    2300138: viga01 sem textura.015
+    2300140: viga01 sem textura.016
+    2300142: viga01 sem textura.017
+    2300144: viga01 sem textura.018
+    2300146: viga01 sem textura.019
+    2300148: viga01 sem textura.020
+    2300150: viga01 sem textura.021
+    2300152: viga01 sem textura.022
+    2300154: viga01 sem textura.023
+    2300156: viga01 sem textura.024
+    2300158: viga01 sem textura.025
+    2300160: viga01 sem textura.026
+    2300162: viga01 sem textura.027
+    2300164: viga01 sem textura.028
+    2300166: viga01 sem textura.029
+    2300168: viga01 sem textura.030
+    2300170: viga01 sem textura.031
+    2300172: viga01 sem textura.032
+    2300174: viga01 sem textura.033
+    2300176: viga01 sem textura.034
+    2300178: viga01 sem textura.035
+    3300000: "ch\xE3o sem textura 01"
+    3300002: "ch\xE3o sem textura 01.001"
+    3300004: "ch\xE3o sem textura 01.002"
+    3300006: "ch\xE3o sem textura 02"
+    3300008: "ch\xE3o sem textura 02.001"
+    3300010: "ch\xE3o sem textura 02.002"
+    3300012: "ch\xE3o sem textura 02.003"
+    3300014: "ch\xE3o sem textura 02.004"
+    3300016: "ch\xE3o sem textura 02.005"
+    3300018: "ch\xE3o sem textura 02.006"
+    3300020: "ch\xE3o sem textura 02.007"
+    3300022: "ch\xE3o sem textura 02.008"
+    3300024: "ch\xE3o sem textura 02.009"
+    3300026: Cube.000
+    3300028: Cube.002
+    3300030: Cube.003
+    3300032: Cube.004
+    3300034: Cube.005
+    3300036: Cube.006
+    3300038: Cube.007
+    3300040: Cube.008
+    3300042: Cube.009
+    3300044: Cube.010
+    3300046: Cube.011
+    3300048: Cube.012
+    3300050: Cube.013
+    3300052: parede sem textura 1
+    3300054: parede sem textura 1.001
+    3300056: parede sem textura 1.002
+    3300058: parede sem textura 1.003
+    3300060: parede sem textura 1.004
+    3300062: parede sem textura 1.005
+    3300064: parede sem textura 1.006
+    3300066: parede sem textura 1.007
+    3300068: parede sem textura 1.008
+    3300070: parede sem textura 1.009
+    3300072: parede sem textura 2
+    3300074: parede sem textura 2.001
+    3300076: parede sem textura 2.002
+    3300078: parede sem textura 2.003
+    3300080: parede sem textura 2.004
+    3300082: parede sem textura 2.005
+    3300084: parede sem textura 2.007
+    3300086: parede sem textura 2.008
+    3300088: parede sem textura 2.009
+    3300090: parede sem textura 2.010
+    3300092: parede sem textura 2.011
+    3300094: parede sem textura 2.012
+    3300096: parede sem textura 2.013
+    3300098: parede sem textura 2.014
+    3300100: parede sem textura 2.015
+    3300102: parede sem textura 2.016
+    3300104: parede sem textura 2.017
+    3300106: parede sem textura 2.018
+    3300108: viga01 sem textura
+    3300110: viga01 sem textura.001
+    3300112: viga01 sem textura.002
+    3300114: viga01 sem textura.003
+    3300116: viga01 sem textura.004
+    3300118: viga01 sem textura.005
+    3300120: viga01 sem textura.006
+    3300122: viga01 sem textura.007
+    3300124: viga01 sem textura.008
+    3300126: viga01 sem textura.009
+    3300128: viga01 sem textura.010
+    3300130: viga01 sem textura.011
+    3300132: viga01 sem textura.012
+    3300134: viga01 sem textura.013
+    3300136: viga01 sem textura.014
+    3300138: viga01 sem textura.015
+    3300140: viga01 sem textura.016
+    3300142: viga01 sem textura.017
+    3300144: viga01 sem textura.018
+    3300146: viga01 sem textura.019
+    3300148: viga01 sem textura.020
+    3300150: viga01 sem textura.021
+    3300152: viga01 sem textura.022
+    3300154: viga01 sem textura.023
+    3300156: viga01 sem textura.024
+    3300158: viga01 sem textura.025
+    3300160: viga01 sem textura.026
+    3300162: viga01 sem textura.027
+    3300164: viga01 sem textura.028
+    3300166: viga01 sem textura.029
+    3300168: viga01 sem textura.030
+    3300170: viga01 sem textura.031
+    3300172: viga01 sem textura.032
+    3300174: viga01 sem textura.033
+    3300176: viga01 sem textura.034
+    3300178: viga01 sem textura.035
+    4300000: parede sem textura 1.007
+    4300002: parede sem textura 1.005
+    4300004: parede sem textura 2.018
+    4300006: viga01 sem textura.035
+    4300008: "ch\xE3o sem textura 01.002"
+    4300010: "ch\xE3o sem textura 02.008"
+    4300012: parede sem textura 2.017
+    4300014: parede sem textura 1.004
+    4300016: viga01 sem textura.034
+    4300018: viga01 sem textura.033
+    4300020: viga01 sem textura.032
+    4300022: "ch\xE3o sem textura 02.007"
+    4300024: parede sem textura 2.016
+    4300026: parede sem textura 2.015
+    4300028: viga01 sem textura.031
+    4300030: viga01 sem textura.030
+    4300032: Cube.012
+    4300034: viga01 sem textura.029
+    4300036: viga01 sem textura.028
+    4300038: viga01 sem textura.027
+    4300040: Cube.011
+    4300042: "ch\xE3o sem textura 02.006"
+    4300044: parede sem textura 2.014
+    4300046: parede sem textura 2.013
+    4300048: viga01 sem textura.026
+    4300050: viga01 sem textura.025
+    4300052: viga01 sem textura.024
+    4300054: Cube.010
+    4300056: Cube.009
+    4300058: parede sem textura 1.006
+    4300060: parede sem textura 1.003
+    4300062: parede sem textura 2.012
+    4300064: viga01 sem textura.023
+    4300066: "ch\xE3o sem textura 01.001"
+    4300068: "ch\xE3o sem textura 02.005"
+    4300070: parede sem textura 2.011
+    4300072: parede sem textura 1.002
+    4300074: viga01 sem textura.022
+    4300076: viga01 sem textura.021
+    4300078: viga01 sem textura.020
+    4300080: "ch\xE3o sem textura 02.004"
+    4300082: parede sem textura 2.010
+    4300084: parede sem textura 2.009
+    4300086: viga01 sem textura.019
+    4300088: viga01 sem textura.018
+    4300090: Cube.008
+    4300092: viga01 sem textura.017
+    4300094: viga01 sem textura.016
+    4300096: viga01 sem textura.015
+    4300098: Cube.007
+    4300100: "ch\xE3o sem textura 02.003"
+    4300102: parede sem textura 2.008
+    4300104: parede sem textura 2.007
+    4300106: viga01 sem textura.014
+    4300108: viga01 sem textura.013
+    4300110: viga01 sem textura.012
+    4300112: Cube.006
+    4300114: Cube.005
+    4300116: Cube.013
+    4300118: parede sem textura 1.009
+    4300120: parede sem textura 1.008
+    4300122: "ch\xE3o sem textura 02.009"
+    4300124: Cube.004
+    4300126: Cube.003
+    4300128: viga01 sem textura.011
+    4300130: viga01 sem textura.010
+    4300132: viga01 sem textura.009
+    4300134: parede sem textura 2.005
+    4300136: parede sem textura 2.004
+    4300138: "ch\xE3o sem textura 02.002"
+    4300140: Cube.002
+    4300142: viga01 sem textura.008
+    4300144: viga01 sem textura.007
+    4300146: viga01 sem textura.006
+    4300148: Cube.000
+    4300150: viga01 sem textura.005
+    4300152: viga01 sem textura.004
+    4300154: parede sem textura 2.003
+    4300156: parede sem textura 2.002
+    4300158: "ch\xE3o sem textura 02.001"
+    4300160: viga01 sem textura.003
+    4300162: viga01 sem textura.002
+    4300164: viga01 sem textura.001
+    4300166: parede sem textura 1.001
+    4300168: parede sem textura 2.001
+    4300170: "ch\xE3o sem textura 02"
+    4300172: "ch\xE3o sem textura 01"
+    4300174: viga01 sem textura
+    4300176: parede sem textura 2
+    4300178: parede sem textura 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
